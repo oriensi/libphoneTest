@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">libphone</string>
+    <string name="explanation">this test a string whether match the phonenumber pattern</string>
+</resources>
